@@ -60,6 +60,7 @@ public class Aula02 {
 				System.out.print(", id_estudante: " + id_estudante);
 				System.out.print(", senioridade: " + senioridade);
 				System.out.println(", graduacao: " + graduacao);
+				//comentando
 
 			}
 			while (conjuntoResultado.next())
